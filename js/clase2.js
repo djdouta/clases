@@ -15,6 +15,7 @@ function funcionDiaSemana() {
       break;
     default:
       console.log("No es un dia valido");
+      console.log("HOL COMO ESTAS ");
       break;
   }
 }
